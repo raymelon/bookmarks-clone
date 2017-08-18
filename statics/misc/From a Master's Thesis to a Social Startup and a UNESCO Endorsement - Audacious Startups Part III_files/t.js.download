@@ -1,0 +1,2 @@
+
+ft.F = function() {};
